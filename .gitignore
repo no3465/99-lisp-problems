@@ -1,0 +1,6 @@
+*
+./compiled/*
+!*.scm
+!README.*
+!.gitignore
+!.gitattributes
