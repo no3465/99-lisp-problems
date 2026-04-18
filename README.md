@@ -24,6 +24,9 @@ Inside `mit-scheme` REPL
 - P03
 - P04
 - P05
+- P06
+- P07
+- P08
 - P09
 ```
 
