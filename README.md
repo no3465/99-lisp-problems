@@ -20,6 +20,10 @@ Inside `mit-scheme` REPL
 
 ```
 - P01
+- P02
+- P03
+- P04
+- P05
 ```
 
 ### Learning Resource
