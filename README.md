@@ -31,6 +31,7 @@ Inside `mit-scheme` REPL
 - P10
 - P11
 - P14
+- P18
 ```
 
 ### Learning Resource
